@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BlogGeneratorTests", "src\BlogGeneratorTests\BlogGeneratorTests.fsproj", "{E8A24CD0-C525-4ECC-BE7C-28DD4E4DD88E}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Extensions", "src\Extensions\Extensions.fsproj", "{FB79DFC8-AFD4-4A7C-ABD8-4FFC342812FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{E8A24CD0-C525-4ECC-BE7C-28DD4E4DD88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8A24CD0-C525-4ECC-BE7C-28DD4E4DD88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8A24CD0-C525-4ECC-BE7C-28DD4E4DD88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB79DFC8-AFD4-4A7C-ABD8-4FFC342812FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB79DFC8-AFD4-4A7C-ABD8-4FFC342812FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB79DFC8-AFD4-4A7C-ABD8-4FFC342812FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB79DFC8-AFD4-4A7C-ABD8-4FFC342812FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

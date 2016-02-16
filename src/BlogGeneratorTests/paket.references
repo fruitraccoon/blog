@@ -2,3 +2,4 @@ FSharp.Formatting
 xunit
 FsUnit.xUnit
 xunit.runner.visualstudio
+FSharp.Data

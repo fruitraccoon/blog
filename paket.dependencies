@@ -1,6 +1,7 @@
 framework: auto-detect
 source https://nuget.org/api/v2
 
+nuget FSharp.Data
 nuget FSharp.Formatting >= 2.14
 nuget FsUnit.xUnit
 nuget xunit
