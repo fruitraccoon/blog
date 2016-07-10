@@ -4,8 +4,7 @@ module DomainTypes
 open System
 open FSharp.Data
 
-let [<Literal>] private MetaSample = """
-[
+let [<Literal>] private MetaSample = """[
 { 
     "title": "Sample", 
     "date": "1970-01-01T00:00:00",
@@ -29,6 +28,7 @@ type PostSource = {
 }
 
 type PostDestination = {
+    Url: string;
     HtmlPath: string;
     ResourcesBasePath: string;
     DestinationLastWriteTime: DateTime option;
